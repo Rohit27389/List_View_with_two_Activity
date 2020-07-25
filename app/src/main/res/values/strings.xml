@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="teams">
+        <item>India</item>
+        <item>South Africa</item>
+        <item>Australia</item>
+        <item>England</item>
+        <item>New Zealand</item>
+        <item>Sri Lanka</item>
+        <item>West Indies</item>
+        <item>Ireland</item>
+    </string-array>
+
+</resources>
